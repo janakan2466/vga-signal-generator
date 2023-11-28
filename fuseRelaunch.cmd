@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/home/student1/jsivalog/Downloads/video-signal-generator/project2_isim_beh.exe" -prj "/home/student1/jsivalog/Downloads/video-signal-generator/project2_beh.prj" "work.project2" 
